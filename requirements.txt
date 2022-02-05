@@ -1,0 +1,9 @@
+mypy==0.931
+nbqa==1.2.3
+tokenize-rt==4.2.1
+nptyping==1.4.4
+numpy==1.22.2
+typish==1.9.3
+pandas==1.4.0
+pytests==6.2.5
+nbmake==1.2
